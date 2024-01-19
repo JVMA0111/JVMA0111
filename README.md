@@ -11,6 +11,10 @@
 
 - 📫 Como me encontrar: **jvmartinsantunes@gmail.com**
 
+- 📄 Minhas experiências profissionais são: [Possuo formação em biomedicina e experiências em estágios na área de radiologia médica. Ademais, me encontro há mais de um ano trabalhando no setor administrativo da secretaria de gestão de pessoas do ministério da gestão e inovação em serviços públicos.](Possuo formação em biomedicina e experiências em estágios na área de radiologia médica. Ademais, me encontro há mais de um ano trabalhando no setor administrativo da secretaria de gestão de pessoas do ministério da gestão e inovação em serviços públicos.)
+
+- ⚡ Fun fact **Amo ler, estudar e aprender coisas novas. Foi devido a aplicabilidade da ciência de dados nas mais diversas áreas o que me levou a me identificar pela mesma.** 
+
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-martins-antunes-660954184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jo%c3%a3o-victor-martins-antunes-660954184?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b0dt6jnvesdsibetpeutfza%3d%3d" height="30" width="40" /></a>
