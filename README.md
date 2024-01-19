@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvma0111&label=Profile%20views&color=0e75b6&style=flat" alt="jvma0111" /> </p>
 
-- 🌱 Estou aprendendo atualmente: **Fundamentos em ciência da computação no curso cs50, concomitante ao caminho em data science pela Alura.**
+- 🌱 Estou aprendendo atualmente: **Fundamentos em ciência da computação no curso cs50, concomitante à conceitos em data science pela Alura.**
 
 - 🤝 Estou procurando por: **cargo de estágio em dados ou BI, e projetos reais em que possa colaborar.** 
 
