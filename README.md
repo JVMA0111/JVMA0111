@@ -7,6 +7,8 @@
 
 - 🌱 Estou aprendendo atualmente: **Fundamentos em ciência da computação no curso cs50, concomitante ao caminho em data science pela Alura.**
 
+- 🤝 Estou procurando por **cargo de estágio em dados ou BI, e projetos reais em que possa colaborar.** 
+
 - 💬 Me pergunte sobre: **Python, Excel, C, análise exploratória de dados, visualização de dados, estatística.**
 
 - 📫 Como me encontrar: **jvmartinsantunes@gmail.com**
