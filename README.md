@@ -7,9 +7,9 @@
 
 - 🌱 Estou aprendendo atualmente: **Fundamentos em ciência da computação no curso cs50, concomitante ao caminho em data science pela Alura.**
 
-- 💬 Me pergunte sobre: **Python, Excel, C.**
+- 💬 Me pergunte sobre: **Python, Excel, C, análise exploratória de dados, visualização de dados, estatística.**
 
-- 📫 Como me encontrar: **jvmartinsantunes@gmail.com.**
+- 📫 Como me encontrar: **jvmartinsantunes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
