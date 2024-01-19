@@ -13,7 +13,7 @@
 
 - 📄 Minhas experiências profissionais são: **Possuo formação em biomedicina e experiências em estágios na área de radiologia médica. Ademais, me encontro há mais de um ano trabalhando no setor administrativo da secretaria de gestão de pessoas do ministério da gestão e inovação em serviços públicos. Sinto que minha trajetória diversificada, bem como conhecimento em metodologia científica contribuem para agregar uma visão racional, e holística em minhas análises.**
 
-- ⚡ Fun fact: **Amo ler, estudar e aprender coisas novas. Foi devido a aplicabilidade da ciência de dados nas mais diversas áreas o que me levou a me identificar pela mesma.**
+- ⚡ Fun fact: **Amo ler, estudar e aprender coisas novas. Foi a aplicabilidade da ciência de dados nas mais diversas áreas que me levou à identificação pela mesma.**
 
 - 📫 Como me encontrar: **jvmartinsantunes@gmail.com**
 
