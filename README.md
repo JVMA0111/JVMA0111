@@ -11,7 +11,7 @@
 
 - 📫 Como me encontrar: **jvmartinsantunes@gmail.com**
 
-- 📄 Minhas experiências profissionais são: [Possuo formação em biomedicina e experiências em estágios na área de radiologia médica. Ademais, me encontro há mais de um ano trabalhando no setor administrativo da secretaria de gestão de pessoas do ministério da gestão e inovação em serviços públicos.](Possuo formação em biomedicina e experiências em estágios na área de radiologia médica. Ademais, me encontro há mais de um ano trabalhando no setor administrativo da secretaria de gestão de pessoas do ministério da gestão e inovação em serviços públicos.)
+- 📄 Minhas experiências profissionais são: Possuo formação em biomedicina e experiências em estágios na área de radiologia médica. Ademais, me encontro há mais de um ano trabalhando no setor administrativo da secretaria de gestão de pessoas do ministério da gestão e inovação em serviços públicos.
 
 - ⚡ Fun fact **Amo ler, estudar e aprender coisas novas. Foi devido a aplicabilidade da ciência de dados nas mais diversas áreas o que me levou a me identificar pela mesma.** 
 
