@@ -1,4 +1,4 @@
-![MasterHead](https://i0.wp.com/www.cienciaedados.com/wp-content/uploads/2019/06/Por-Que-e-Como-Data-Science-e-Mais-do-Que-Apenas-Machine-Learning.jpg?fit=1040%2C520&ssl=1)
+<img src="https://assets-global.website-files.com/606907b169dcd481e8fd42c4/628fcc28ae967c5ccc32de0c_data-science.jpg" width="1000" height="500" alt="MasterHead">
 <h1 align="center">Olá 👋, sou o João Victor Martins</h1>
 <h3 align="center">Um apaixonado estudante de ciência de dados</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://indoanalytica.com/static/images/data-science-2.gif">
