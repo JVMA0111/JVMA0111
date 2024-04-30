@@ -18,7 +18,7 @@
 
 - 📫 Como me encontrar: **jvmartinsantunes@gmail.com**
 
-- 🌐 Idiomas: **Nativo em português, Inglês Avançado e Espanhol Intermediário.**
+- 🌐 Idiomas: **Nativo em português, Inglês Avançado e Espanhol Básico.**
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
