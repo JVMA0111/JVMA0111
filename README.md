@@ -12,7 +12,7 @@
 
 - 💬 Me pergunte sobre: **Python, Excel, C, análise exploratória de dados, visualização de dados, estatística, testes exploratórios**
 
-- 📄 Minhas experiências profissionais são: **Atualmente, Analista de Qualidade de Software, Além disso possuo formação em biomedicina e experiência no setor administrativo da secretaria de gestão de pessoas do ministério da gestão e inovação em serviços públicos. Sinto que minha trajetória diversificada, bem como conhecimento em metodologia científica contribuem para agregar uma visão racional, e holística em minhas análises.**
+- 📄 Minhas experiências profissionais são: **Atualmente, Analista de Qualidade de Software, além disso possuo formação em biomedicina e experiência no setor administrativo da secretaria de gestão de pessoas do ministério da gestão e inovação em serviços públicos. Sinto que minha trajetória diversificada, bem como conhecimento em metodologia científica contribuem para agregar uma visão racional, e holística em minhas análises.**
 
 - ⚡ Fun fact: **Amo ler, estudar e aprender coisas novas. Estou sempre atento aos detalhes, e possuo um perfil mais analítico**
 
