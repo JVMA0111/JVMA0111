@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvma0111&label=Profile%20views&color=0e75b6&style=flat" alt="jvma0111" /> </p>
 
-- 🌱 Estou aprendendo atualmente: **Fundamentos em ciência da computação no curso cs50, concomitante à conceitos em data science pela Alura.**
+- 🌱 Estou aprendendo atualmente: **Testes exploratórios.**
 
-- 🤝 Estou procurando por: **cargo de estágio em dados ou BI, e projetos reais em que possa colaborar.** 
+- 🤝 Estou procurando por: **Projetos em que possa colaborar.** 
 
-- 💬 Me pergunte sobre: **Python, Excel, C, análise exploratória de dados, visualização de dados, estatística.**
+- 💬 Me pergunte sobre: **Python, Excel, C, análise exploratória de dados, visualização de dados, estatística, testes exploratórios**
 
-- 📄 Minhas experiências profissionais são: **Possuo formação em biomedicina e experiência no setor administrativo da secretaria de gestão de pessoas do ministério da gestão e inovação em serviços públicos. Sinto que minha trajetória diversificada, bem como conhecimento em metodologia científica contribuem para agregar uma visão racional, e holística em minhas análises.**
+- 📄 Minhas experiências profissionais são: **Atualmente, Analista de Qualidade de Software, Além disso possuo formação em biomedicina e experiência no setor administrativo da secretaria de gestão de pessoas do ministério da gestão e inovação em serviços públicos. Sinto que minha trajetória diversificada, bem como conhecimento em metodologia científica contribuem para agregar uma visão racional, e holística em minhas análises.**
 
-- ⚡ Fun fact: **Amo ler, estudar e aprender coisas novas. Foi a aplicabilidade da ciência de dados nas mais diversas áreas que me levou à identificação pela mesma.**
+- ⚡ Fun fact: **Amo ler, estudar e aprender coisas novas. Estou sempre atento aos detalhes, e possuo um perfil mais analítico**
 
 - 📫 Como me encontrar: **jvmartinsantunes@gmail.com**
 
