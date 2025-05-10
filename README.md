@@ -1,4 +1,4 @@
-<img src="https://remsoft.com.br/wp-content/uploads/2024/05/qualidade-de-software.png" width="1000" height="400" alt="MasterHead">
+<img src="https://remsoft.com.br/wp-content/uploads/2024/05/qualidade-de-software.png" width="800" height="300" alt="MasterHead">
 <h1 align="center">Olá 👋, sou o João Victor Martins</h1>
 <h5 align="center">If you are an english speaker, look for my pinned English-README repository!</h5>
 <h3 align="center">Analista de Qualidade de Software, adepto à cultura data driven</h3>
