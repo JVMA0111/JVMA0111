@@ -1,8 +1,8 @@
-<img src="https://assets-global.website-files.com/606907b169dcd481e8fd42c4/628fcc28ae967c5ccc32de0c_data-science.jpg" width="1000" height="400" alt="MasterHead">
+<img src="https://remsoft.com.br/wp-content/uploads/2024/05/qualidade-de-software.png" width="1000" height="400" alt="MasterHead">
 <h1 align="center">Olá 👋, sou o João Victor Martins</h1>
 <h5 align="center">If you are an english speaker, look for my pinned English-README repository!</h5>
 <h3 align="center">Analista de Qualidade de Software, adepto à cultura data driven</h3>
-<img align = "right" alt = "Coding" width = "400" src = "https://remsoft.com.br/wp-content/uploads/2024/05/qualidade-de-software.png">
+<img align = "right" alt = "Coding" width = "400" src = "https://indoanalytica.com/static/images/data-science-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvma0111&label=Profile%20views&color=0e75b6&style=flat" alt="jvma0111" /> </p>
 
